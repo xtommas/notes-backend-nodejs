@@ -1,2 +1,3 @@
 # notes-backend-nodejs
-Simple backend for a notes app with no database using Node.js
+
+Simple notes app with no database using Node.js and React for the frontend
